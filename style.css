@@ -1,0 +1,56 @@
+body {
+	margin-top: 60px;
+}
+
+#main-title {
+	font-family: 'Monoton', cursive;
+	text-align:center;
+	font-size: 6em;
+}
+
+#sub-title {
+	font-family: 'Suez One', serif;
+	text-align: center;
+}
+
+#right-section {
+	background-color: white;
+}
+
+#left-section {
+	background-color: black;
+}
+
+.album-art {
+	width: 90%;
+	height: auto;
+	margin:auto;
+	margin-top:10px;
+	display:block;
+}
+
+#kanye-regal-pic {
+	margins:auto;
+}
+
+#text-body {
+	margin-top: 3em;
+	font-family: 'Suez One', serif;
+}
+
+#quote {
+	font-family: 'Suez One', cursive;
+	margin-left: 4em;
+	color: #6a9fd8;
+}
+p {
+	text-indent: 50px;
+}
+
+#kanye-hands-up {
+	width: auto;
+	height: auto;
+	margin: auto;
+	max width: 6em;
+}
+
